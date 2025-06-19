@@ -3,7 +3,7 @@
 **Abstract**: In this work, we introduce a novel approach for synthesizing new curves by leveraging Variational Autoencoder (VAE) latent space interpolation. Our method encodes existing ordered point sequences representing curves into a compact latent representation, enabling smooth and meaningful transitions between different curve shapes. By performing controlled interpolations in the learned latent space, we generate diverse, high-quality smooth curves that maintain structural coherence and geometric consistency. The proposed method is particularly useful for applications in shape design, procedural modeling, and data augmentation in geometric learning.
 
 <p align="center">
-<img src="https://github.com/Saeedeh-Barzegar/2D-Curve-Interpolation-Generation/blob/master/demonstration.gif?raw=true" alt="An Inception-based Variational Autoencoder for Curves Generation and Interpolation" >
+<img src="https://github.com/Saeedeh-Barzegar/2D-Curve-Interpolation-Generation/blob/main/demonstration.gif?raw=true" alt="An Inception-based Variational Autoencoder for Curves Generation and Interpolation" >
 </p>
 
 ## How to train the model?
