@@ -19,9 +19,12 @@ You can cite us using this bibliographic reference:
 * Barzegar Khalilsaraei, Augsdörfer. **An Inception-based Variational Autoencoder for Curves Generation and Interpolation**. International Conferences in Central Europe on Computer Graphics, Visualization and Computer Vision, 2025.
 
 ```bibtex
-@article{BarzegarKhalilsaraei2025Inception,
-  author={Saeedeh Barzegar Khalilsaraei and Ursula Augsdörfer},
+@article{barzegar2025inception,
   title={An Inception-based Variational Autoencoder for Curves Generation and Interpolation},
+  author={Saeedeh Barzegar Khalilsaraei and Ursula Augsdörfer},
+  year={2025},
+  publisher={Vaclav Skala-UNION Agency}
+  
 }
 ```
 
